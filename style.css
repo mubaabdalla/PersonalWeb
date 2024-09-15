@@ -153,6 +153,7 @@ h3{
     .boxes{
         display: inline-flex;
         flex-direction: column;
+        align-content:center;
         
         flex-wrap: nowrap;
         margin-top: 3rem;
