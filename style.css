@@ -155,7 +155,7 @@ h3{
         flex-direction: column;
         align-content:center;
         
-        flex-wrap: nowrap;
+        flex-wrap: wrap;
         margin-top: 3rem;
         margin-bottom: 5rem;
     }
